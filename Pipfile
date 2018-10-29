@@ -11,8 +11,13 @@ jupyterlab = "*"
 seaborn = "*"
 xlrd = "*"
 pillow = "*"
+numpy = "*"
 
 [dev-packages]
+pytest = "*"
+mypy = "*"
+pylint = "*"
+"flake8" = "*"
 
 [requires]
 python_version = "3.7"
