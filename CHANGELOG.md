@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.2.0] - 2018-11-01
+### Changed
+- ヒストグラムを描画するサンプルに、エクセル上でヒストグラムを描画するパートを追加。
+
 ## [1.1.0] - 2018-10-29
 ### Added
 - ヒストグラムを描画し、エクセルファイルに張り付けるサンプルを追加。
